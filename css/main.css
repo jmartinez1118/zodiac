@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background-image: url("https://cdn.theatlantic.com/assets/media/img/mt/2015/10/Cygnus_v3_BandW/facebook.jpg?1444687096");
+
+}
+
+h1 {
+	color: white;
+}
+
+img {
+	width: 90%;
+}
+
+p {
+	color: white;
+	font-size: 24px;
+}
